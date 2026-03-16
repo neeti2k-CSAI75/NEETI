@@ -1,6 +1,7 @@
 import streamlit as st
 
 st.title("Climate Change Comparative Analysis Dashboard")
+st.markdown("<h1 style='font-size:50px;'>Welcome to My App</h1>", unsafe_allow_html=True)
 
 st.write("This dashboard shows climate change data using pie charts and bar graphs.")
 user=st.text_input('ENTER USER NAME')
