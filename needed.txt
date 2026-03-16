@@ -1,3 +1,0 @@
-stremlit
-matplotlib.pyplot
-pandas
